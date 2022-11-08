@@ -1,0 +1,49 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
+  
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+  }
+  
+  #image {
+    max-width: 100%;
+    height: auto;
+  }
+
+  h1 {
+    font-size: 32;
+  }
+  
+  #img-caption {
+  margin-top: 10px
+  }
+  
+  #tribute-info {
+    margin-top: 50px;
+    font-size: 18px
+  }
+  
+  info-tribute {
+    text-align: center;
+  }
+  
+  #story {
+    display: inline-block;
+    text-align: left;
+    justify-content: center;
+    flex-wrap: fwrap;
+    align-items: center;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
+    width: 30%;
+  }
+  
+  #story > li {
+  margin: 2em;
+  }
